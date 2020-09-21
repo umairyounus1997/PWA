@@ -4,6 +4,7 @@ import './App.css';
 import firebase from 'firebase';
 
 function App() {
+  //const messaging
   return (
     <div className="App">
       <header className="App-header">

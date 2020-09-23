@@ -3,7 +3,6 @@ importScripts('https://www.gstatic.com/firebasejs/7.21.0/firebase-messaging.js')
 
 
 firebase.initializeApp({
-
     apiKey: "AIzaSyDurRiW3EPPGPWMnQ9qGKkEg7ljWQgck8g",
     authDomain: "fir-messaging-app-8a136.firebaseapp.com",
     databaseURL: "https://fir-messaging-app-8a136.firebaseio.com",
